@@ -18,7 +18,15 @@
     [super viewDidLoad];
     
     NSLog(@"改改bug");
+    NSLog(@"改改bug");NSLog(@"改改bug");
     
+    
+    
+    NSLog(@"改改bug");
+    
+    
+    
+    NSLog(@"改改bug");
 }
 
 - (void)didReceiveMemoryWarning {
